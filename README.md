@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jan! <br/><a href="https://github.com/janwichmann98">Programmer</a> and <a href="https://github.com/janwichmann98/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Jan! <br/><a href="https://github.com/janwichmann98">Software Developer</a>, <a href="https://github.com/janwichmann98">AI Engineer</a> and <a href="https://github.com/janwichmann98/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -21,9 +21,9 @@
 <h2>📺 AI Projects</h2>
 
 - <b>Machine Learning</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Fitness Tracker in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Chat Bots</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Daily.dev News as WhatsApp Bot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2>📺 Cybersecurity Projects</h2>
 
