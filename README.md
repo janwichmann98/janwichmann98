@@ -18,14 +18,14 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 AI Projects</h2>
+<h2>🤖 AI Projects</h2>
 
 - <b>Machine Learning</b>
   - [Fitness Tracker in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Chat Bots</b>
   - [Daily.dev News as WhatsApp Bot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📺 Cybersecurity Projects</h2>
+<h2>👾 Cybersecurity Projects</h2>
 
 - <b>Machine Learning</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
