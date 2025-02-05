@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python:</b>
-  - [Simple Finance Tracker](https://github.com/janwichmann98/finance_tracker_v1)
+  - [Simple Finance Tracker](https://github.com/janwichmann98/finance-tracker-v1)
   - [Weather App with API]()
 - <b>Other:</b>
   - [CLI ToDo List using Rust](https://github.com/janwichmann98/cli-todo-app)
@@ -13,6 +13,7 @@
 <h2>🤖 AI Projects</h2>
 
 - <b>Machine Learning</b>
+  - [MNIST Digit Recognition](https://github.com/janwichmann98/mnist-digit-recognition)
   - [Fitness Tracker using Python , Work-in-progress]("link")
 - <b>Chat Bots</b>
   - [Daily.dev News as WhatsApp Bot]("link") <b><i>(Potentially NSFW)</b></i>
