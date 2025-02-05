@@ -31,10 +31,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JanWichmann | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
-[<img align="left" alt="JanWichmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/janwichmann NOCH AUSTAUSCHEN MIT X
+[<img align="left" alt="JanWichmann | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/jan-wichmann
 
 <!--
