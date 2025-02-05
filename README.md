@@ -15,7 +15,7 @@
 - <b>Machine Learning</b>
   - [MNIST Digit Recognition](https://github.com/janwichmann98/mnist-digit-recognition)
 - <b>Chat Bots</b>
-  - [Daily.dev News as WhatsApp Bot]("link") <b><i>(Potentially NSFW)</b></i>
+  - Coming soon
 
 <h2>👾 Cybersecurity Projects</h2>
 
@@ -25,6 +25,7 @@
   - [SIEM tool creation using Microsoft Azure]("link")
 
 <h2>🔭 Private projects I'm working on</h2>
+
 - <b>Software:</b>
   - Supplements-Tracking Mobile App using Flutter
 - <b>Machine Learning</b>
