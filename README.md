@@ -24,6 +24,10 @@
 - <b>Other:</b>
   - [SIEM tool creation using Microsoft Azure]("link")
 
+<h2>🔭 Private projects I'm working on</h2>
+- <b>Software:</b>
+  - Supplements-Tracking Mobile App using Flutter
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JanWichmann | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
