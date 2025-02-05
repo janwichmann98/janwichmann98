@@ -8,13 +8,12 @@
 - <b>Other:</b>
   - [CLI ToDo List using Rust](https://github.com/janwichmann98/cli-todo-app)
 - <b>Bash:</b>
-  - 
+  - Coming soon
 
 <h2>🤖 AI Projects</h2>
 
 - <b>Machine Learning</b>
   - [MNIST Digit Recognition](https://github.com/janwichmann98/mnist-digit-recognition)
-  - [Fitness Tracker using Python , Work-in-progress]("link")
 - <b>Chat Bots</b>
   - [Daily.dev News as WhatsApp Bot]("link") <b><i>(Potentially NSFW)</b></i>
 
@@ -28,6 +27,8 @@
 <h2>🔭 Private projects I'm working on</h2>
 - <b>Software:</b>
   - Supplements-Tracking Mobile App using Flutter
+- <b>Machine Learning</b>
+  - Fitness Tracker using Python
 
 <h2> 🤳 Connect with me:</h2>
 
