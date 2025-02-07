@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python:</b>
-  - [Simple Finance Tracker](https://github.com/janwichmann98/finance-tracker-v1)
-  - [Weather App with API]()
+  - [CLI Simple Finance Tracker](https://github.com/janwichmann98/finance-tracker-v1)
+  - [Weather App with API](https://github.com/janwichmann98/weather-app)
 - <b>Other:</b>
   - [CLI ToDo List using Rust](https://github.com/janwichmann98/cli-todo-app)
 - <b>Bash:</b>
