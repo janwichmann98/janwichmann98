@@ -20,9 +20,9 @@
 <h2>👾 Cybersecurity Projects</h2>
 
 - <b>Automation:</b>
-  - [System-Ressource-Logger]("link")
+  - [System-Ressource-Logger](https://github.com/janwichmann98/system-ressource-logger)
 - <b>Other:</b>
-  - [SIEM tool creation using Microsoft Azure]("link")
+  - Coming soon
 
 <h2>🔭 Private projects I'm working on</h2>
 
@@ -30,6 +30,8 @@
   - Supplements-Tracking Mobile App using Flutter
 - <b>Machine Learning</b>
   - Fitness Tracker using Python
+- <b>Cybersecurity</b>
+  - SIEM tool creation using Microsoft Azure
 
 <h2> 🤳 Connect with me:</h2>
 
