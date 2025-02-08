@@ -14,17 +14,13 @@
 
 - <b>Machine Learning</b>
   - [MNIST Digit Recognition](https://github.com/janwichmann98/mnist-digit-recognition)
-- <b>Chat Bots</b>
-  - Coming soon
 
 <h2>👾 Cybersecurity Projects</h2>
 
 - <b>Automation:</b>
   - [System-Ressource-Logger](https://github.com/janwichmann98/system-ressource-logger)
-- <b>Other:</b>
-  - Coming soon
 
-<h2>🔭 Private projects I'm working on</h2>
+<h2>🔭 Private projects I'm working on and that are coming soon</h2>
 
 - <b>Software:</b>
   - Supplements-Tracking Mobile App using Flutter
@@ -32,6 +28,8 @@
   - Fitness Tracker using Python
 - <b>Cybersecurity</b>
   - SIEM tool creation using Microsoft Azure
+- <b>Other</b>
+  - Telemetry Data Visualizer using Loki, Grafana, Tempo, and Prometheus
 
 <h2> 🤳 Connect with me:</h2>
 
